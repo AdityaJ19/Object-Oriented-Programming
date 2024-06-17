@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b301f39-2293-41bd-8feb-b3e9c43a8959" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccMeth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CreatingObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/BoxWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModAttr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiAttri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/singleTon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StaticVar/InnerClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StaticVar/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StaticVar/human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StaticVar/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/copyConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2g3hzZpEbxpOiOzU8SOFbVp9C4Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccMeth.executor": "Run",
+    "Application.Constructors.executor": "Run",
+    "Application.CreatingObject.executor": "Run",
+    "Application.Inheritance.main.executor": "Run",
+    "Application.InnerClasses$Test.executor": "Run",
+    "Application.ModAttr.executor": "Run",
+    "Application.MultiAttri.executor": "Run",
+    "Application.Second.executor": "Run",
+    "Application.Singleton.main.executor": "Debug",
+    "Application.StaticBlock.executor": "Run",
+    "Application.copyConstructor.executor": "Run",
+    "Application.human.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.pen.executor": "Run",
+    "Application.polymorphism.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Inheritance.main">
+    <configuration name="Inheritance.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.main" />
+      <module name="OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InnerClasses$Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaticVar.InnerClasses$Test" />
+      <module name="OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StaticVar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Singleton.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Singleton.main" />
+      <module name="OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaticVar.StaticBlock" />
+      <module name="OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StaticVar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaticVar.main" />
+      <module name="OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StaticVar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Inheritance.main" />
+        <item itemvalue="Application.Singleton.main" />
+        <item itemvalue="Application.InnerClasses$Test" />
+        <item itemvalue="Application.StaticBlock" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-jbr-17.0.9-f644763e9732-e10f1064" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b301f39-2293-41bd-8feb-b3e9c43a8959" name="Changes" comment="" />
+      <created>1714932437272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714932437272</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Singleton/main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
