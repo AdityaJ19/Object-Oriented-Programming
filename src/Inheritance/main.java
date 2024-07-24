@@ -2,12 +2,12 @@ package Inheritance;
 
 public class main {
     public static void main(String[] args) {
-//        Box box=new Box(4.3, 3,2.5);
-//        Box box1=new Box(box);
-//        System.out.println(box.l+" "+ box.h+" "+ box.w);
-//        BoxWeight box2=new BoxWeight();
-//        BoxWeight box3=new BoxWeight(2, 4, 3, 6);
-//        System.out.println(box2.weight+" "+ box2.h);
+        Box box=new Box(4.3, 3,2.5);
+        Box box1=new Box(box);
+        System.out.println(box.l+" "+ box.h+" "+ box.w);
+        BoxWeight box2=new BoxWeight();
+        BoxWeight box3=new BoxWeight(2, 4, 3, 6);
+        System.out.println(box2.weight+" "+ box2.h);
 
 //        Box box4=new BoxWeight(2, 4, 6, 3);
         //we cannot access box4.weight even though it is initalized
@@ -21,5 +21,7 @@ public class main {
         //you can access the weight variable but for other variable to be
         // accessed first they need to be initialized
         //here the object itself of parent class so it will cause an error
+
+        BoxPrice price = new BoxPrice(5, 4, 200);
     }
 }
