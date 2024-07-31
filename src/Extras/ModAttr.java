@@ -1,3 +1,5 @@
+package Extras;
+
 public class ModAttr {
     int x=5; // x value stored is 5
 

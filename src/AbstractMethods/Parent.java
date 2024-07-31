@@ -11,7 +11,7 @@ public abstract class Parent {
     static void greeting(){
         System.out.println("hello");
     }
-    //you cannot create Abstract Constructors
+    //you cannot create Abstract Extras.Constructors
     //abstract Parent ();
 
     abstract void career();

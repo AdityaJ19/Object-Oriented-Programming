@@ -1,3 +1,5 @@
+package Extras;
+
 public class AccMeth {
     //Access Methods With Objects
     public void fullThrottle(){

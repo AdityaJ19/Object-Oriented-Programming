@@ -5,39 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b301f39-2293-41bd-8feb-b3e9c43a8959" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/AbstractMethods/Daughter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractMethods/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractMethods/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractMethods/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccessControl/Access.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccessControl/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccessControl/ObjectClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccessControl/subclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/BoxColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/BoxPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Brakes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/CDPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/NiceCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/PowerEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Objects/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Objects/WrapperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/subclass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cloning/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cloning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Collect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionFramework/VectorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Comparing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Comparing/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/CustomArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/CustomGenericArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/LambdaFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/WildcardExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreatingObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/CreatingObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/BoxWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/BoxWeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polymorphism/polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractMethods/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractMethods/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccMeth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extras/AccMeth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extras/Constructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extras/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModAttr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extras/ModAttr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiAttri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extras/MultiAttri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extras/Second.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/copyConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extras/copyConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extras/pen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,10 +65,19 @@
   "keyToString": {
     "Application.AbstractMethods.Main.executor": "Run",
     "Application.AccMeth.executor": "Run",
+    "Application.Cloning.Main.executor": "Run",
+    "Application.Collect.executor": "Run",
     "Application.Constructors.executor": "Run",
     "Application.CreatingObject.executor": "Run",
+    "Application.CustomArrayList.executor": "Run",
+    "Application.CustomGenericArrayList.executor": "Run",
+    "Application.Enum (1).executor": "Run",
+    "Application.Enum.executor": "Run",
+    "Application.Exception.executor": "Run",
+    "Application.Generics.Comparing.Main.executor": "Run",
     "Application.Inheritance.main.executor": "Run",
     "Application.InnerClasses$Test.executor": "Run",
+    "Application.LambdaFunction.executor": "Run",
     "Application.Main (1).executor": "Run",
     "Application.Main (2).executor": "Run",
     "Application.Main (3).executor": "Debug",
@@ -106,17 +107,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Generics" />
       <recent name="AbstractMethods" />
       <recent name="Singleton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="AbstractMethods.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractMethods.Main" />
+  <component name="RunManager" selected="Application.Enum (1)">
+    <configuration name="Cloning.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cloning.Main" />
       <module name="OOPs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AbstractMethods.*" />
+          <option name="PATTERN" value="Cloning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Objects.Main" />
+    <configuration name="Collect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFramework.Collect" />
       <module name="OOPs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Objects.*" />
+          <option name="PATTERN" value="CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interfaces.Main" />
+    <configuration name="Enum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFramework.Enum" />
       <module name="OOPs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Interfaces.*" />
+          <option name="PATTERN" value="CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AccessControl.ObjectClass" />
+    <configuration name="Enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionFramework.Enum" />
       <module name="OOPs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AccessControl.*" />
+          <option name="PATTERN" value="CollectionFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,26 +165,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Objects.WrapperClass" />
+    <configuration name="pen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Extras.pen" />
       <module name="OOPs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Objects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.AbstractMethods.Main" />
-        <item itemvalue="Application.ObjectClass" />
-        <item itemvalue="Application.WrapperClass" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Enum (1)" />
+        <item itemvalue="Application.Enum" />
+        <item itemvalue="Application.Collect" />
+        <item itemvalue="Application.pen" />
+        <item itemvalue="Application.Cloning.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718600478650</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1721784751423</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721784751423</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

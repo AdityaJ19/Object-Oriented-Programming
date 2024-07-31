@@ -1,3 +1,5 @@
+package Extras;
+
 public class Constructors {
     String name;
     int age;
@@ -8,7 +10,7 @@ public class Constructors {
         System.out.println(this.age);
         System.out.println(this.grade);
     }
-    //Parameterized Constructors
+    //Parameterized Extras.Constructors
     Constructors(String name, int age, String grade){
         //objects are defined in the class function
         this.age=age;
